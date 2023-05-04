@@ -1,14 +1,14 @@
 # Classification of Emails Using Artificial Intelligence
 
-    IHK Dortmund - Abschluss Projekt
+IHK Dortmund - Abschluss Projekt
 
-    Titel: Klassifizierung von E-Mails mithilfe Künstler Intelligenz
-    Author: Philipp Braun
-    Conclusion: Fachinformatiker für Anwendungsentwicklung 
-    
-    Company: Sylvenstein Media GmbH
-    Training-operation: QualifzierungsAkademie Rheinruhr GmbH & CO.KG.
-    
+Titel: Klassifizierung von E-Mails mithilfe Künstler Intelligenz
+Author: Philipp Braun
+Conclusion: Fachinformatiker für Anwendungsentwicklung 
+
+Company: Sylvenstein Media GmbH
+Training-operation: QualifzierungsAkademie Rheinruhr GmbH & CO.KG.
+
 This repository contains the implementation of a machine learning model for classifying emails based on their content. The project was developed as part of my final year project in computer science, and aims to showcase my skills in Artificial Intelligence, Machine Learning, and Natural Language Processing.
 
 ## Overview
